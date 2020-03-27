@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mtsmoratelli/video-maker/issues"
   },
-  "homepage": "https://github.com/mtsmoratelli/video-maker#readme"
+  "homepage": "https://github.com/mtsmoratelli/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
